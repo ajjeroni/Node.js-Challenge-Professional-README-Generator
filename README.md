@@ -24,7 +24,7 @@ The README file will then be completed at the end of the prompts.
 
 ## Links
 
-Click this link to access (video)[https://drive.google.com/file/d/1icSrTOWiL1lve88WU0sWeF4RuWVRXF_5/view]
+Click this link to access [video](https://drive.google.com/file/d/1icSrTOWiL1lve88WU0sWeF4RuWVRXF_5/view)
 
 ## Credits
 
