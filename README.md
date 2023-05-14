@@ -4,7 +4,7 @@
 
 For this task students had to create a command-line application that dynamically generated a high quality README using Node.js.
 
-This task was really difficult, as Node.js is brand new to me. I used the help of the internet, such as chatGPT, forums, github, and learning assistants. Seeing overall how all worked out is amazing and exapanded my knowledge on Node.JS, API's and NPM's. 
+This task was really difficult, as Node.js was brand new to me. I used the help of the internet, such as chatGPT, forums, github, and learning assistants. Seeing overall how all worked out is amazing and this challenge exapanded my knowledge on Node.JS, API's and NPM's. 
 
 ## Installation
 
