@@ -3,11 +3,10 @@ const fs = require('fs');
 const util = require('util');
 
 
-const api = require('./utils/api.js');
-const generateMarkdown = require('./utils/generateMarkdown.js');
+const api = require('./assets/api.js');
+const generateMarkdown = require('./assets/generateMarkdown.js');
 
-inquirer
-  .prompt[
+const questions = [
     /* Pass your questions in here */
     {
       type: 'input',
@@ -82,11 +81,6 @@ inquirer
       message: "Choose a license for your project.",
       choices: ['GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0', 'MIT License', 'Boost Software License 1.0', 'The Unlicense'],
       name: 'license'
-  },
-  {
-    type: 'input',
-    message: "Any Questions?",
-    name: 'questions'
   }
 ];
     

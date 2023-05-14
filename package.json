@@ -1,5 +1,24 @@
 {
   "dependencies": {
-    "inquirer": "^9.2.3"
-  }
+    "axios": "^1.4.0",
+    "inquirer": "^8.2.4"
+  },
+  "name": "node.js-challenge-professional-readme-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajjeroni/Node.js-Challenge-Professional-README-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajjeroni/Node.js-Challenge-Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/ajjeroni/Node.js-Challenge-Professional-README-Generator#readme"
 }
